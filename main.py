@@ -3,8 +3,10 @@
 # https://github.com/vocodedev/vocode-python/tree/main/apps/telegram_bot
 
 # SDxAI Hackathon 2023
-# Team: Lumate 
+# Team: Lumate
 # Developer: Armando Santana
+# Description: Life Coach voice chat prototype
+
 
 import io
 import os
